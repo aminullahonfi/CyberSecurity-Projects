@@ -1,6 +1,4 @@
-# CyberSecurity-Projects
 
-A cybersecurity learning portfolio focused on Linux, networking, troubleshooting, system hardening, and practical security projects.
 
 ## About Me
 
@@ -131,5 +129,3 @@ Reusable templates for vulnerability reports, project documentation, and technic
 This repository reflects my journey as a learner and aspiring cybersecurity professional. I am continuously developing my technical skills, expanding my knowledge, and creating practical projects that showcase my growth in the field of cybersecurity.
 
 ---
-
-If you want, I can also turn this into a more professional GitHub profile README style, a LinkedIn-ready bio, or a full resume version for CyberSecurity-Projects.
